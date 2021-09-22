@@ -1,10 +1,15 @@
 # NJC
-Contain two differnt Files for different actions Kindly check that.
+I made two different files,name that creating databese and creating table which are attached blow.
 
 #Creating Database
-
+  here,
     Imported mysql-connector in python.
     Created a connection between mysql and python.
-    Created a Database with name 'NJCcode'.
+    Created a Database with name 'njc'.
 
-#Creating Table 4. Created a Table named 'Movies' undee the 'NJCcode' Database. 5. Inserted many rows in the table. 6. Retrieved all the rows in single query. 7. Retrieved only some of rows using differnt conditions.
+#Creating Table
+    here,
+    Created a Table named 'movie' under the 'njc' Database. 
+    Inserted many rows in the table.
+    print all the rows in single query.
+    Retrieved only some of rows information using differnt conditions.
